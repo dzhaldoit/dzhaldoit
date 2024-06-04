@@ -46,7 +46,10 @@
   <img src="https://www.svgrepo.com/show/354321/selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="PyTest" alt="PyTest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/M0R0K/Ui_Project/blob/main/media/logo/Allure_Report.svg" title="Allure" alt="Allure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/M0R0K/Ui_Project/blob/main/media/logo/AllureTestOps.svg" title="AllureTestOps" alt="Allure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/icons/Selenoid.png" title="Selenoid" alt="Jenkins" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  
   
   
 </div>
