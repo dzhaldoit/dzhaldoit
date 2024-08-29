@@ -48,9 +48,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dzhaldoit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=buefy&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=dzhaldoit&locale=en&mode=daily&theme=buefy&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="120" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dzhaldoit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=true&order=2" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dzhaldoit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=buefy&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=dzhaldoit&locale=en&mode=daily&theme=buefy&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D&order=3" height="100" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dzhaldoit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=true&order=2" height="100" alt="languages graph"  />
 </div>
 
 
