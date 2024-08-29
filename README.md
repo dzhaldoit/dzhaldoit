@@ -1,14 +1,8 @@
 <h1 align="center">Привет👋</h1>
 
 ###
-
-
-
-
 <h3 align="left">👩‍💻 Обо мне</h3>
-
 <br clear="both">
-
 <img align="right" height="200" src="https://cdn.dribbble.com/users/410907/screenshots/2044702/wasting_time.gif"  />
 
 ###
