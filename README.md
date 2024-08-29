@@ -47,66 +47,12 @@
 
 ###
 
-<h1 align="center">Привет👋</h1>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dzhaldoit.dzhaldoit&"  />
-</div>
-
-###
-
-<h3 align="left">👩‍💻 Обо мне</h3>
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://i.pinimg.com/736x/b9/49/c8/b949c86a570df07a7440abe39405834c.jpg"  />
-
-###
-
-<p align="left">Меня зовут Джалал! Я начинающий специалист по автоматизации тестирования (AQA) на языке программирования Python и Java. Мой путь в IT начался с курса от Яндекс Практикума, где я прошёл интенсив. После этого я попробовал себя в разных направлениях, изучал Java, самообучался веб-разработкой, но больше всего мне понравилась AQA!<br><br>С ноября 2023 по апрель 2024 года я обучался ручному тестированию на курсах Яндекс Практикума. Сейчас я закончил обучение и перешёл на новый уровень — начал изучать автоматизацию тестирования на Python и Java. Я прошел курс: от Яндекс Практикума AQA Python и дальше изучаю автоматизацию тестирования на Java.</p>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-</div>
-
-###
-
-<h3 align="left">🛠 Технологии:</h3>
-
-###
-
-<p align="left">- 📚 Завершил 2 курса по QA manual (Яндекс Практикум и Be - tester!)<br>- 🚀 Завершил курс Автоматизатор тестирования на Python<br>- ⚡ Являюсь старшим студентом на курсе Ручной тестировщик от Яндекc Практикума.<br>- 🌱 Прохожу курса по Автоматизатор тестирования на Java от QA-Guru!</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-</div>
-
-###
-
-<h3 align="center">🔥   Статистика :</h3>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dzhaldoit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=buefy&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=dzhaldoit&locale=en&mode=daily&theme=buefy&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="120" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dzhaldoit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=true&order=2" height="120" alt="languages graph"  />
 </div>
 
-###
 
 ###
 
