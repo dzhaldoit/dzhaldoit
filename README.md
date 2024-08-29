@@ -2,12 +2,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dzhaldoit.dzhaldoit&"  />
-</div>
 
 
-<h3 align="center">👩‍💻 Обо мне</h3>
+
+<h3 align="left">👩‍💻 Обо мне</h3>
 
 <br clear="both">
 
@@ -56,3 +54,8 @@
 
 ###
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dzhaldoit.dzhaldoit&"  />
+</div>
+
+###
