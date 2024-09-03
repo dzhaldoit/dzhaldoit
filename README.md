@@ -28,9 +28,27 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="13" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp; <img src="https://www.svgrepo.com/show/353782/git-icon.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp; <img src="https://www.svgrepo.com/show/354593/youtrack.svg" title="YouTrack" alt="YouTrack" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp; <img src="https://www.svgrepo.com/show/354321/selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="PyTest" alt="PyTest" width="40" height="40"/>&nbsp; <img src="https://github.com/M0R0K/Ui_Project/blob/main/media/logo/Allure_Report.svg" title="Allure" alt="Allure" width="40" height="40"/>&nbsp; <img src="https://github.com/M0R0K/Ui_Project/blob/main/media/logo/AllureTestOps.svg" title="AllureTestOps" alt="Allure" width="40" height="40"/>&nbsp; <img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/icons/Selenoid.png" title="Selenoid" alt="Jenkins" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/igor-QA/igor-QA/blob/main/logo/Rest-Assured.svg" title="Rest-Assured" alt="Rest-Assured" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/selenide/selenide/blob/main/.idea/icon.svg" title="Selenide" alt="Selenide" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="JUnit5" alt="JUnit5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp; 
+  <img src="https://www.svgrepo.com/show/353782/git-icon.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp; 
+  <img src="https://www.svgrepo.com/show/354593/youtrack.svg" title="YouTrack" alt="YouTrack" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp; 
+  <img src="https://www.svgrepo.com/show/354321/selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="PyTest" alt="PyTest" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/M0R0K/Ui_Project/blob/main/media/logo/Allure_Report.svg" title="Allure" alt="Allure" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/M0R0K/Ui_Project/blob/main/media/logo/AllureTestOps.svg" title="AllureTestOps" alt="Allure" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/ElenaSkorobodilova/ElenaSkorobodilova/blob/main/icons/Selenoid.png" title="Selenoid" alt="Jenkins" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp; 
 </div>
 
 ###
