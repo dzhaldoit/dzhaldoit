@@ -3,11 +3,11 @@
 ###
 <h3 align="left">👩‍💻 Обо мне</h3>
 <br clear="both">
-<img align="right" height="200" src="https://cdn.dribbble.com/users/410907/screenshots/2044702/wasting_time.gif"  />
+<img align="right" width="300" height="200" src="https://cdn.dribbble.com/users/410907/screenshots/2044702/wasting_time.gif"  />
 
 ###
 
-<p align="left">Меня зовут Джалал! Я начинающий специалист по автоматизации тестирования (AQA) на языке программирования Python и Java.</p>
+<p align="left">Меня зовут Джалал! Я специалист по автоматизации тестирования (AQA) на языке программирования Python и Java.</p>
 
 ###
 
